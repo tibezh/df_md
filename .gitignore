@@ -1,0 +1,6 @@
+#env
+df_md_venv
+#models data
+models
+#jupyter checkpoints
+.ipynb_checkpoints
